@@ -1,5 +1,9 @@
 
 /* Your CSS Code here. */
+*
+{
+box-sizing:border-box;
+}
 .box{
 	padding:50px;
 	border:15px solid blue;
